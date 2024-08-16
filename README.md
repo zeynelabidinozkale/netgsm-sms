@@ -1,10 +1,9 @@
 # Laravel Netgsm Sms Paketi
 
-[![Latest Stable Version](https://poser.pugx.org/busayo/laravel-volt/v/stable.svg)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
-[![Latest Unstable Version](https://poser.pugx.org/busayo/laravel-volt/v/unstable.svg)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
-[![License](https://poser.pugx.org/zeynelabidinozkale/netgsm-sms/license.svg)](LICENSE)
-[![Total Downloads](https://poser.pugx.org/zeynelabidinozkale/netgsm-sms/d/total.png)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
-
+[![Latest Stable Version](https://poser.pugx.org/zeynelabidinozkale/netgsm-sms/v/stable)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
+[![Total Downloads](https://poser.pugx.org/zeynelabidinozkale/netgsm-sms/downloads)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
+[![License](https://poser.pugx.org/zeynelabidinozkale/netgsm-sms/license)](https://github.com/zeynelabidinozkale/netgsm-sms/blob/main/LICENSE)
+ 
 
 To use this package, you need to register with Netgsm at https://www.netgsm.com.tr/ and enable PHP API support.
 
