@@ -1,4 +1,4 @@
-# Laravel 5 Netgsm Sms Paketi
+# Laravel Netgsm Sms Paketi
 
 [![Latest Stable Version](https://poser.pugx.org/busayo/laravel-volt/v/stable.svg)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
 [![Latest Unstable Version](https://poser.pugx.org/busayo/laravel-volt/v/unstable.svg)](https://packagist.org/packages/zeynelabidinozkale/netgsm-sms)
