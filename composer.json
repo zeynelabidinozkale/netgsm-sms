@@ -16,12 +16,12 @@
             "email": "zeynelabidinozkale@gmail.com"
         }
     ],
-    "license": "MIT License",
+    "license": "MIT",
     "require": {},
     "autoload": {
-        "psr-0": {
-            "zeynelabidinozkale\\Netgsm\\": "src"
+        "psr-4": {
+            "Zeynelabidinozkale\\Netgsm\\": "src/"
         }
-    },
+    }, 
     "minimum-stability": "dev"
 }
