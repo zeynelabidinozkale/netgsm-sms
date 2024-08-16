@@ -20,7 +20,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Zeynelabidinozkale\\Netgsm\\": "src/"
+            "Zeynelabidinozkale\\NetgsmSms\\": "src/"
         }
     }, 
     "minimum-stability": "dev"
