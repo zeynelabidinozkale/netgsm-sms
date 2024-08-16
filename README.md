@@ -11,7 +11,7 @@ To use this package, you need to register with Netgsm at https://www.netgsm.com.
 Run this code from the command line: 
 
 ```
-composer require zeynelabidinozkale/netgsm-sms dev-master
+composer require zeynelabidinozkale/netgsm-sms dev-main
 ```
 
 ```config/app.php``` Add the following lines to the config/app.php file:
