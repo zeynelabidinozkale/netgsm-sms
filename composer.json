@@ -1,0 +1,27 @@
+{
+    "name": "zeynelabidinozkale/netgsm-sms",
+    "description": "Netgsm Sms Paketi",
+    "keywords": [
+        "sms",
+        "netgsm",
+        "laravel 5",
+        "sms api",
+        "baslikli sms",
+        "laravel"
+    ],
+    "homepage": "https://github.com/zeynelabidinozkale/netgsm-sms",
+    "authors": [
+        {
+            "name": "Zeynel Abidin Özkale",
+            "email": "info@zeynelabidinozkale.com"
+        }
+    ],
+    "license": "MIT License",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "zeynelabidinozkale\\Netgsm\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
